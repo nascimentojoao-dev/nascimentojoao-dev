@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nascimentojoao-dev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Integration between Front & Back-End
+- 🌱 I’m currently learning Architecture applied to Web Applications
 - 💞️ I’m looking to collaborate on Projects with space for neophytes
 - 📫 How to reach me: nascimento.joao.dev@gmail.com
 
